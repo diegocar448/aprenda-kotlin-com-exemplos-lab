@@ -8,3 +8,4 @@ Desafio de Projeto criado para avaliação do conteúdo técnico explorado no re
 ```kotlin
 TODO("Crie uma solução em Koltin abstraindo esse domínio. O arquivo [desafio.kt] te ajudará 😉")
 ```
+https://raw.githubusercontent.com/diegocar448/aprenda-kotlin-com-exemplos-lab/main/screenshot.png
